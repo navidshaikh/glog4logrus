@@ -1,6 +1,6 @@
 # glog4logrus
 
-Print logrus logs with glog.
+Print [logrus](https://github.com/sirupsen/logrus) logs with [glog](https://github.com/golang/glog).
 
 ## Purpose
 
